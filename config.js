@@ -27,7 +27,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
+    "https://www.windy.com/?-28.845,-49.263,5,m:cPfaeLC",
     "1",
     "R"
   ],
@@ -61,8 +61,8 @@ const aIMG = [
     "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
   ],
   [
-    "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "LAST 4 Hours",
+    "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/animation.gif",
   ],
   [
     "ISS & RS-44 POSITION",
@@ -71,7 +71,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/animation.gif",
   ],
   [
     "SATELLITE CGL",
