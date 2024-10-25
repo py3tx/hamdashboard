@@ -23,7 +23,7 @@ const aURL = [
     "1",
     "R",
   ],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+//  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
   [
     "2196F3",
     "RADAR",
