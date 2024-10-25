@@ -27,7 +27,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://www.windy.com/?-28.845,-49.263,5,m:cPfaeLC",
+    "https://www.windy.com/?-30.040,-50.228,5",
     "1",
     "R"
   ],
