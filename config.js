@@ -79,7 +79,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://www.climaeradar.com.br/radarclima?center=-19.5,-53.12&zoom=4.34&layer=lr&loop=true",
   ],
   [
     "LIGHTNING LOCAL",
