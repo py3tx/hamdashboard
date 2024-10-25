@@ -85,7 +85,7 @@ const aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["YOUTUBE", "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"],
   [
     "SBPA",
     "iframe|https://globe.adsbexchange.com/?airport=SBPA",
