@@ -90,18 +90,19 @@ const aIMG = [
     "https://img.propagation.dr2w.de/n-america/10M/dr2w_animation_10M.gif", "https://img.propagation.dr2w.de/n-america/20M/dr2w_animation_20M.gif", "https://img.propagation.dr2w.de/n-america/40M/dr2w_animation_40M.gif", "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"  
   ],
   [
-    "YOUTUBE",
-    "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"
+    "HF PROPAGATION",
+    "https://www.hamqsl.com/solar101vhf.php",
+    "https://www.hamqsl.com/solar100sc.php",
+    "https://www.hamqsl.com/solarpich.php"
   ],
   [
-    "SBPA",
+    "ADSB SBPA",
     "iframe|https://globe.adsbexchange.com/?airport=SBPA",
   ],
   [
-  "HF PROPAGATION",
-  "https://www.hamqsl.com/solar101vhf.php",
-  "https://www.hamqsl.com/solar100sc.php",
-  "https://www.hamqsl.com/solarpich.php"],
+    "YOUTUBE",
+    "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"
+  ],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
