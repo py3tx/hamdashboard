@@ -78,12 +78,12 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/GEOCOLOR/GOES16-SSA-GEOCOLOR-900x540.gif",
   ],
   [
-    "SOLAR FLARES",
-    "https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png",
+    " ", "https://www.hamqsl.com/solarmuf.php", "https://www.hamqsl.com/solarmap.php", "https://services.swpc.noaa.gov/images/swx-overview-large.gif", "https://services.swpc.noaa.gov/images/animations/wam-ipe/wfs_ionosphere_new/latest.png"
+    " ", "https://img.propagation.dr2w.de/n-america/10M/dr2w_animation_10M.gif", "https://img.propagation.dr2w.de/n-america/20M/dr2w_animation_20M.gif", "https://img.propagation.dr2w.de/n-america/40M/dr2w_animation_40M.gif", "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"
   ],
   [
-    "Last QSO map (last 1 hour)",
-    "https://robot.hrdlog.net/public/cache/mapjpg.jpg",
+    "Radio Propagation",
+    "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG",
   ],
   ["YOUTUBE", "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"],
   [
