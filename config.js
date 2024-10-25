@@ -27,7 +27,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://www.windy.com/?-30.040,-50.228,5",
+    "https://embed.windy.com/embed2.html?lat=-30.883&lon=-50.131&detailLat=-30.458&detailLon=-50.131&width=900&height=600&zoom=8&level=surface&overlay=clouds&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1",
     "1",
     "R"
   ],
