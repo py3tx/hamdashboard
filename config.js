@@ -78,20 +78,27 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/GEOCOLOR/GOES16-SSA-GEOCOLOR-900x540.gif",
   ],
   [
-    " ", "https://www.hamqsl.com/solarmuf.php", "https://www.hamqsl.com/solarmap.php", "https://services.swpc.noaa.gov/images/swx-overview-large.gif", "https://services.swpc.noaa.gov/images/animations/wam-ipe/wfs_ionosphere_new/latest.png"
-    " ", "https://img.propagation.dr2w.de/n-america/10M/dr2w_animation_10M.gif", "https://img.propagation.dr2w.de/n-america/20M/dr2w_animation_20M.gif", "https://img.propagation.dr2w.de/n-america/40M/dr2w_animation_40M.gif", "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"
+    " ", 
+    "https://www.hamqsl.com/solarmuf.php", "https://www.hamqsl.com/solarmap.php", "https://services.swpc.noaa.gov/images/swx-overview-large.gif", "https://services.swpc.noaa.gov/images/animations/wam-ipe/wfs_ionosphere_new/latest.png"
   ],
   [
     "Radio Propagation",
     "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG",
   ],
-  ["YOUTUBE", "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"],
+  [
+    " ", 
+    "https://img.propagation.dr2w.de/n-america/10M/dr2w_animation_10M.gif", "https://img.propagation.dr2w.de/n-america/20M/dr2w_animation_20M.gif", "https://img.propagation.dr2w.de/n-america/40M/dr2w_animation_40M.gif", "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"  
+  ],
+  [
+    "YOUTUBE",
+    "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"
+  ],
   [
     "SBPA",
     "iframe|https://globe.adsbexchange.com/?airport=SBPA",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
-  ["HF PROPAGATION",
+  [
+  "HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
   "https://www.hamqsl.com/solarpich.php"],
