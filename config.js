@@ -75,7 +75,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/13/GOES16-SSA-13-900x540.giff",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/13/GOES16-SSA-13-900x540.gif",
   ],
   [
     "SOLAR FLARES",
