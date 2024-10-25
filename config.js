@@ -82,8 +82,8 @@ const aIMG = [
     "https://www.climaeradar.com.br/radarclima?center=-19.5,-53.12&zoom=4.34&layer=lr&loop=true",
   ],
   [
-    "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "Last QSO map (last 1 hour)",
+    "https://robot.hrdlog.net/public/cache/mapjpg.jpg",
   ],
   ["YOUTUBE", "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"],
   [
