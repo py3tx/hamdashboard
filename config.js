@@ -42,7 +42,7 @@ const aURL = [
   [
     "2196F3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-48.38,-27.25,1137",
+    "https://www.ventusky.com/?p=-29.6;-50.6;5&l=wind-10m",
     "1",
     "R",
   ],
