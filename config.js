@@ -83,7 +83,7 @@ const aIMG = [
   ],
   [
     "Radio Propagation",
-    "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG",
+    "https://www.tvcomm.co.uk/g7izu/Autosave/HF_ZERO1_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/PACIFIC_HF_AutoSave.JPG"
   ],
   [
     " ", 
