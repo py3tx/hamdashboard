@@ -19,7 +19,7 @@ const aURL = [
   [
     "2196F3",
     "LIGHTNING",
-    "https://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=15296&y=16626&z=2&angle=0&im=18&ts=1&st=0&et=0&speed=200&motion=loop&maps%5Bborders%5D=white&p%5B0%5D=cira_glm_l2_group_energy&opacity%5B0%5D=1&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&draw_color=FFD700&draw_width=6",
+    "https://www.climaeradar.com.br/radarclima?center=-17.04,-52.56&zoom=4&layer=lr",
     "1",
     "R",
   ],
