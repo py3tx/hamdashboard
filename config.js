@@ -63,7 +63,7 @@ const aIMG = [
     "https://ciram.epagri.sc.gov.br/mapas/Chuva_24h/prec24h.png",
   ],
   [
-    "Sat LAST Hour",
+    "SAT LAST Hour",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/ultima1zoom.png",
   ],
   [
@@ -72,11 +72,11 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=27607",
   ],
   [
-    "SATELLITE VIEW",
+    "SAT VIEW",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/animation.gif",
   ],
   [
-    "SATELLITE CGL",
+    "SAT CGL",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/GEOCOLOR/GOES16-SSA-GEOCOLOR-900x540.gif",
   ],
   [
@@ -99,7 +99,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "iframe|http://www2.simepar.br/rindat/",
+    "iframe|https://metsul.com/modulo-raios/",
   ],
   [
     "YOUTUBE",
