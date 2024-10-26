@@ -26,12 +26,12 @@ const aURL = [
 //  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
   [
     "2196F3",
-    "RADAR",
+    "WINDY",
     "https://embed.windy.com/embed2.html?lat=-29.953&lon=-50.124&detailLat=-29.953&detailLon=-50.124&width=900&height=600&zoom=8&level=surface&overlay=clouds&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1",
     "1",
     "R"
   ],
-  ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
+  ["2196F3", "TIME", "https://time.is/", "1", "R"],
   [
     "2196F3",
     "WEATHER",
@@ -41,7 +41,7 @@ const aURL = [
   ],
   [
     "2196F3",
-    "WINDS",
+    "VENTUSKY",
     "https://www.ventusky.com/?p=-29.6;-50.6;5&l=wind-10m",
     "1",
     "R",
@@ -55,22 +55,24 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+  [
+    "RADAR",
+    "iframe|https://metsul.com/modulo-radar/index.php"],
   [
     "LOCAL RADAR",
     "https://ciram.epagri.sc.gov.br/mapas/Chuva_24h/prec24h.png",
   ],
   [
-    "LAST Hour",
+    "Sat LAST Hour",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/ultima1zoom.png",
   ],
   [
-    "ISS & RS-44 POSITION",
+    "ISS & SO-50 POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
+    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=27607",
   ],
   [
-    "SATELLITE CAN",
+    "SATELLITE VIEW",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/animation.gif",
   ],
   [
@@ -96,8 +98,8 @@ const aIMG = [
     "https://www.hamqsl.com/solarpich.php"
   ],
   [
-    "ADSB SBPA",
-    "iframe|https://globe.adsbexchange.com/?airport=SBPA",
+    "LIGHTNING",
+    "iframe|http://www2.simepar.br/rindat/",
   ],
   [
     "YOUTUBE",
