@@ -104,7 +104,7 @@ const aIMG = [
   ],
   [
     "YOUTUBE",
-    "iframe|https://www.youtube.com/embed/iRsVsfUl7nk?autoplay=1&mute=1"
+    "iframe|https://www.youtube.com/embed/FJT_f628QG8?autoplay=1&mute=1"
   ],
 ];
 
