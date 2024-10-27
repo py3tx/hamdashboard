@@ -33,15 +33,20 @@ const aURL = [
     "1",
     "R",
   ],
-//  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
   [
     "2196F3",
-    "WINDY",
-    "https://embed.windy.com/embed2.html?lat=-29.953&lon=-50.124&detailLat=-29.953&detailLon=-50.124&width=900&height=600&zoom=8&level=surface&overlay=clouds&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1",
+    "TIME",
+    "https://time.is/",
     "1",
     "R"
   ],
-  ["2196F3", "TIME", "https://time.is/", "1", "R"],
+  [
+    "2196F3",
+    "VENTUSKY",
+    "https://www.ventusky.com/?p=-29.6;-50.6;5&l=wind-10m",
+    "1",
+    "R",
+  ],
   [
     "2196F3",
     "WEATHER",
@@ -51,10 +56,10 @@ const aURL = [
   ],
   [
     "2196F3",
-    "VENTUSKY",
-    "https://www.ventusky.com/?p=-29.6;-50.6;5&l=wind-10m",
+    "WINDY",
+    "https://embed.windy.com/embed2.html?lat=-29.953&lon=-50.124&detailLat=-29.953&detailLon=-50.124&width=900&height=600&zoom=8&level=surface&overlay=clouds&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1",
     "1",
-    "R",
+    "R"
   ],
 ];
 
