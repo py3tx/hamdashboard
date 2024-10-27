@@ -100,7 +100,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "iframe|https://metsul.com/modulo-raios/",
+    "iframe|https://metsul.com/modulo-raios",
   ],
   [
     "YOUTUBE",
