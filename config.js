@@ -57,7 +57,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "iframe|https://www.meteoblue.com/pt/tempo/mapas/widget?windAnimation=1&gust=1&satellite=1&cloudsAndPrecipitation=1&temperature=1&sunshine=1&extremeForecastIndex=1&geoloc=detect&tempunit=C&windunit=km%252Fh&lengthunit=metric&zoom=2&autowidth=auto",
+    "iframe|https://vime.inmet.gov.br",
   ],
   [
     "LOCAL RADAR",
