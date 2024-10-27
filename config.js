@@ -16,8 +16,8 @@ const aURL = [
   ],
   [
     "2196F3",
-    "CONTEST",
-    "https://www.contestcalendar.com/fivewkcal.html",
+    "CONTEST CALENDAR",
+    "https://www.contestcalendar.com/weeklycont.php",
     "1",
   ],
   [
