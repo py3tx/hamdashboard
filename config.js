@@ -9,16 +9,16 @@ const aURL = [
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
   [
+    "2196F3",
+    "CALENDAR",
+    "https://www.contestcalendar.com/weeklycont.php",
+    "1",
+  ],
+  [
     "2196F3", 
     "CLUBLOG", 
     "https://clublog.org/livestream/PY3TX", 
     "1.7"
-  ],
-  [
-    "2196F3",
-    "CONTEST CALENDAR",
-    "https://www.contestcalendar.com/weeklycont.php",
-    "1",
   ],
   [
     "2196F3",
