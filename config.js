@@ -22,8 +22,20 @@ const aURL = [
   ],
   [
     "2196F3",
+    "CONTEST RUN",
+    "https://contest.run",
+    "1",
+  ],
+  [
+    "2196F3",
     "DX CLUSTER",
     "https://dxcluster.ha8tks.hu/map/", 
+    "1"
+  ],
+    [
+    "2196F3",
+    "DX HEAT",
+    "https://www.dxheat.com/", 
     "1"
   ],
   [
