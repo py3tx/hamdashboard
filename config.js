@@ -57,7 +57,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "iframe|https://www.climatempo.com.br/mapas/chuva",
+    "https://s0.cptec.inpe.br/grafico/Satelite/goes16/realcadas/pagina/g16ch13_cptec.jpg",
   ],
   [
     "LOCAL RADAR",
