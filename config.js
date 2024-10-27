@@ -32,7 +32,7 @@ const aURL = [
     "https://dxcluster.ha8tks.hu/map/", 
     "1"
   ],
-    [
+  [
     "2196F3",
     "DX HEAT",
     "https://www.dxheat.com/", 
