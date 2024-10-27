@@ -8,14 +8,24 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/PY3TX", "1.7"],
+  [
+    "2196F3", 
+    "CLUBLOG", 
+    "https://clublog.org/livestream/PY3TX", 
+    "1.7"
+  ],
   [
     "2196F3",
     "CONTEST",
     "https://www.contestcalendar.com/fivewkcal.html",
     "1",
   ],
-  ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
+  [
+    "2196F3",
+    "DX CLUSTER",
+    "https://dxcluster.ha8tks.hu/map/", 
+    "1"
+  ],
   [
     "2196F3",
     "LIGHTNING",
@@ -64,6 +74,10 @@ const aIMG = [
     "https://ciram.epagri.sc.gov.br/mapas/Chuva_24h/prec24h.png",
   ],
   [
+    "LIGHTNING",
+    "https://satelite.cptec.inpe.br/repositoriowebdsa/ultimas/ult_glm.jpg",
+  ],
+  [
     "SAT LAST Hour",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/ultima1zoom.png",
   ],
@@ -85,7 +99,7 @@ const aIMG = [
     "https://www.hamqsl.com/solarmuf.php", "https://www.hamqsl.com/solarmap.php", "https://services.swpc.noaa.gov/images/swx-overview-large.gif", "https://services.swpc.noaa.gov/images/animations/wam-ipe/wfs_ionosphere_new/latest.png"
   ],
   [
-    "Radio Propagation",
+    "PROPAGATION",
     "https://www.tvcomm.co.uk/g7izu/Autosave/HF_ZERO1_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/PACIFIC_HF_AutoSave.JPG"
   ],
   [
@@ -99,11 +113,7 @@ const aIMG = [
     "https://www.hamqsl.com/solarpich.php"
   ],
   [
-    "LIGHTNING",
-    "https://satelite.cptec.inpe.br/repositoriowebdsa/ultimas/ult_glm.jpg",
-  ],
-  [
-    "YOUTUBE",
+    " ",
     "iframe|https://www.youtube.com/embed/FJT_f628QG8?autoplay=1&mute=1"
   ],
 ];
