@@ -57,7 +57,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "iframe|https://metsul.com/modulo-radar/index.php"],
+    "iframe|https://www.climaeradar.com.br/radarclima?loop=true"],
   [
     "LOCAL RADAR",
     "https://ciram.epagri.sc.gov.br/mapas/Chuva_24h/prec24h.png",
