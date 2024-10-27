@@ -100,7 +100,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "iframe|https://metsul.com/modulo-raios",
+    "https://satelite.cptec.inpe.br/repositoriowebdsa/ultimas/ult_glm.jpg",
   ],
   [
     "YOUTUBE",
