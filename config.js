@@ -57,7 +57,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "iframe|https://vime.inmet.gov.br",
+    "iframe|https://www.climatempo.com.br/mapas/chuva",
   ],
   [
     "LOCAL RADAR",
