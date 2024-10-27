@@ -58,6 +58,7 @@ const aIMG = [
   [
     "RADAR",
     "iframe|https://www.meteoblue.com/pt/tempo/mapas/widget?windAnimation=1&gust=1&satellite=1&cloudsAndPrecipitation=1&temperature=1&sunshine=1&extremeForecastIndex=1&geoloc=detect&tempunit=C&windunit=km%252Fh&lengthunit=metric&zoom=4&autowidth=auto",
+  ],
   [
     "LOCAL RADAR",
     "https://ciram.epagri.sc.gov.br/mapas/Chuva_24h/prec24h.png",
