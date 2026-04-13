@@ -84,7 +84,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "https://imgs.climatempo.com.br/radar/rs/latest.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/ssa/GEOCOLOR/1800x1080.jpg",
   ],
   [
     "LOCAL RADAR",
