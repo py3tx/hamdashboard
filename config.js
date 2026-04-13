@@ -84,7 +84,7 @@ const aURL = [
 const aIMG = [
   [
     "RADAR",
-    "https://s0.cptec.inpe.br/grafico/Satelite/goes16/realcadas/pagina/g16ch13_cptec.jpg",
+    "https://imgs.climatempo.com.br/radar/rs/latest.jpg",
   ],
   [
     "LOCAL RADAR",
